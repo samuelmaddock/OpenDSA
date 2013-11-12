@@ -32,7 +32,7 @@ it is relatively difficult to implement in practice.
 Here is a pseudocode sketch of Mergesort::
 
     List mergesort(List inlist) {
-      if (inlist.length() <= 1) return inlist;;
+      if (inlist.length() <= 1) return inlist;
       List L1 = half of the items from inlist;
       List L2 = other half of the items from inlist;
       return merge(mergesort(L1), mergesort(L2));
