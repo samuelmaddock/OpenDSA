@@ -22,7 +22,7 @@ Each has (as the name "quadratic suggests)
 The best way to speed them up is to find a better sorting algorithm.
 Nonetheless, there have been many suggestions given over the years
 about how to speed up one or another of these particular algorithms.
-There are useful lessons to be learned about code tuninga by
+There are useful lessons to be learned about code tuning by
 seeing which of these ideas actually turn out to give better
 performance.
 It is also interesting to see the relative performance of the three
